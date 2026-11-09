@@ -1,0 +1,12 @@
+Logo oficial do CACCO fornecida pela equipe.
+
+MediaPipe Tasks Vision 1.2.2, The MediaPipe Authors. Apache License 2.0.
+https://github.com/google-ai-edge/mediapipe
+https://www.npmjs.com/package/@mediapipe/tasks-vision/v/1.2.2
+
+Modelo Hand Landmarker (FP16), Google AI Edge.
+https://ai.google.dev/edge/mediapipe/solutions/vision/hand_landmarker
+https://storage.googleapis.com/mediapipe-models/hand_landmarker/hand_landmarker/float16/1/hand_landmarker.task
+
+Filtro adaptativo inspirado no 1 Euro Filter de Géry Casiez, Nicolas Roussel e Daniel Vogel (CHI 2012).
+https://gery.casiez.net/1euro/
